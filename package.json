@@ -1,0 +1,20 @@
+{
+  "name": "raincoat-cat-platformer",
+  "version": "1.0.0",
+  "description": "A Grappling Hook Adventure - Phaser 3 Platformer Game",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 8080",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.28.2",
+  "dependencies": {
+    "phaser": "^3.90.0",
+    "vite": "^7.3.1"
+  }
+}
